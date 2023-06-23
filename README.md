@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Quoc Viet</h1>
 <div>
 <img alt="self" width="50%" src="banner.png">
-<img alt="self" width="50%" src="banner3.png">
+<img alt="self" width="50%" src="banner3.jpg">
   
 </div>
 - 🌱 I’m currently learning **Vue, Bootstrap, SASS**
