@@ -6,9 +6,12 @@
 - 💬 Ask me about **vue, js, jsp, bootstrap**
 
 - 📫 How to reach me **tranquocviet1303@gmail.com**
+  <div width="50%">
+    
+<img alt="code" align="center" width="100%" src="banner2.png">
+  </div>
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="code" width="300" src="banner2.png">
 <p align="left">
 <a href="https://fb.com/khong.phai.quoc.viet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khong.phai.quoc.viet" height="30" width="40" /></a>
 <a href="https://instagram.com/vietq.tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vietq.tran" height="30" width="40" /></a>
