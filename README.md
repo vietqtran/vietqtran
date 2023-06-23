@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm Quoc Viet</h1>
-<div style="display: flex">
-<img alt="self" width="50%" src="banner.png">
-<img alt="self" width="50%" src="banner3.jpg">
+<img alt="self" width="100%" src="banner.png">
   
-</div>
 - 🌱 I’m currently learning **Vue, Bootstrap, SASS**
 
 - 💬 Ask me about **vue, js, jsp, bootstrap**
