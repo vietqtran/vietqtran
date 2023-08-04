@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Quoc Viet</h1>
 <img alt="self" width="100%" src="banner.png">
   
-- 🌱 I’m currently learning **Vue, Bootstrap, SASS**
+- 🌱 I’m currently learning **ReactJs, TailWindCSS, NextJs**
 
-- 💬 Ask me about **vue, js, jsp, bootstrap**
+- 💬 Ask me about **reactjs, tailwindscss, vue, js, jsp, bootstrap**
 
 - 📫 How to reach me **tranquocviet1303@gmail.com**
   <div width="50%">
