@@ -1,12 +1,8 @@
-<h1 align="left">Hi 👋, I'm Quoc Viet</h1>
-- 🌱 I’m currently learning **ReactJs, TailWindCSS, NextJs**
+# Hi, I'm [`@vietqtran`]('https://github.com/vietqtran') - Software Developer
 
-- 💬 Ask me about **reactjs, tailwindscss, vue, js, jsp, bootstrap**
-
-- 📫 How to reach me **tranquocviet1303@gmail.com**
-  <div width="50%">
-    
-<img alt="code" align="center" width="100%" src="banner2.png">
+  <div width="100%" style="display: flex;">
+    <img alt="code" align="center" width="45%" src="banner.png">
+    <img alt="code" align="center" width="45%" src="banner2.png">
   </div>
 
 <h3 align="left">Connect with me:</h3>
