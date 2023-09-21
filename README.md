@@ -1,7 +1,7 @@
 # Hi, I'm [`@vietqtran`]('https://github.com/vietqtran') - Software Developer
   <div width="100%">
-    <img class="banner" alt="code" align="center" width="45%" height="400px" src="banner.jpg">
-    <img class="banner" alt="code" align="center" width="45%" height="400px" src="banner2.png">
+    <img class="banner" alt="code" align="center" width="365px" height="365px" src="banner.jpg">
+    <img class="banner" alt="code" align="center" width="365px" height="365px" src="banner2.png">
   </div>
 
 <h3 align="left">Connect with me:</h3>
