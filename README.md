@@ -1,4 +1,11 @@
-# Hi, I'm [`@vietqtran`]('https://github.com/vietqtran') - Software Developer
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Quoc Viet</h1>
+ 
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer" alt="Headline" />
+    </div>  
+<p align="center"><a href="https://vietqtran.id.vn">Portfolio↗️</a></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   
   <div width="100%" align="center">
@@ -15,3 +22,30 @@
 <a href="https://www.hackerrank.com/tranquocviet1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tranquocviet1303" height="30" width="40" /></a>
 </p>
 
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js" />
+    </br>
+    </br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind" />
+    </br>
+    </br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux" />
+    </br>
+    </br>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,mongodb,nodejs" />
+    </br>
+    </br>
+    <img src="https://skillicons.dev/icons?i=git,instagram,figma,firebase,mongodb,github,postgres,postman,vscode&perline=14" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
