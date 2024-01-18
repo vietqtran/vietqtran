@@ -21,31 +21,4 @@
 <a href="https://instagram.com/vietq.tran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vietq.tran" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tranquocviet1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tranquocviet1303" height="30" width="40" /></a>
 </p>
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js" />
-    </br>
-    </br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind" />
-    </br>
-    </br>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux" />
-    </br>
-    </br>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,mongodb,nodejs" />
-    </br>
-    </br>
-    <img src="https://skillicons.dev/icons?i=git,instagram,figma,firebase,mongodb,github,postgres,postman,vscode&perline=14" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
