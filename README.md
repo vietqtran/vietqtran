@@ -10,9 +10,7 @@
   <div width="100%" align="center">
     <img alt="code"   align="center" src="https://github.com/vietqtran/vietqtran/blob/main/giphy.gif" >
   </div>
-  <div width="100%" align="center">
-    <img class="banner" alt="code" align="center" width="365px" height="365px" src="banner2.png">
-  </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
