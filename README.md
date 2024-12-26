@@ -4,11 +4,11 @@
 </div>  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div width="100%" align="center">
- <img alt="code"   align="center" src="https://github.com/vietqtran/vietqtran/blob/main/giphy.gif" >
+ <img alt="code"   align="center" src="./giphy.gif" >
 </div>
 <h3 align="left">My certifications:</h3>
-<a href="#" target="blank">
-<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png" alt="cert" />
+<a href="https://www.credly.com/badges/affc2752-1fcc-4f3e-b7f1-93efa9581559" target="blank">
+<img src="./aws-saa.png" alt="cert" />
  </a>
 </div>  
 <h3 align="left">Connect with me:</h3>
