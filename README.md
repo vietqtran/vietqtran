@@ -6,7 +6,7 @@
 <div width="100%" align="center">
  <img alt="code"   align="center" src="./giphy.gif" >
 </div>
-<h3 align="left">My certifications:</h3>
+<h3 align="left">My certificates:</h3>
 <a href="https://www.credly.com/badges/affc2752-1fcc-4f3e-b7f1-93efa9581559" target="_blank">
 <img src="./aws-saa.png" alt="cert" />
  </a>
