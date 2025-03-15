@@ -21,7 +21,10 @@ src="https://img.shields.io/github/followers/vietqtran?logo=github&style=for-the
 
 ### Certificates
 <a href="https://www.credly.com/badges/affc2752-1fcc-4f3e-b7f1-93efa9581559" target="_blank">
-<img src="./aws-saa.png" alt="cert" />
+<img src="./aws-saa.png" alt="cert" style="width: 150px;" />
+ </a>
+ <a href="https://www.credly.com/earner/earned/badge/52e9cd43-4b0e-4989-adfd-0744d283c141" target="_blank">
+<img src="./aws-dva.png" style="width: 150px;" alt="cert" />
  </a>
 
 ### Socials
