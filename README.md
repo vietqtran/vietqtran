@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a Devops + Backend Developer with experience working with technologies such as Docker, Kubernetes, CI/CD, and Cloud services. I specialize in developing and optimizing the backend system, ensuring performance, security and expansion. Currently, I am constantly learning about system architecture and cloud computing, aiming to become a Cloud Engineer and Solutions Architect in the future. I am passionate about building effective infrastructure solutions, processing processes and optimizing the system on Cloud platforms such as AWS, GCP and Azure.
+I am a Devops + Backend Developer with experience working with technologies such as Docker, Kubernetes, CI/CD, and Cloud services. Currently, I am constantly learning about system architecture and cloud computing, aiming to become a Cloud Engineer and Solutions Architect in the future. I am passionate about building effective infrastructure solutions, processing processes and optimizing the system on Cloud platforms such as AWS, GCP and Azure.
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [tranquocviet1303@gmail.com](mailto:tranquocviet1303@gmail.com)
