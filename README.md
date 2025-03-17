@@ -8,7 +8,6 @@ I am a Devops + Backend Developer with experience working with technologies such
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [tranquocviet1303@gmail.com](mailto:tranquocviet1303@gmail.com)
-* 🚀  I'm currently working on [Rikkeisoft](https://rikkeisoft.com/)
 * 🧠  I'm learning Cloud Computing
 
 <a href="https://www.github.com/vietqtran" target="_blank" rel="noreferrer"><img
