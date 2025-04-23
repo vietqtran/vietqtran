@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Trần Quốc Việt
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Quoc Viet
 ======================================================================================================================================
 
-Software Engineer
+Cloud Devops Engineer
 -----------------
 
-I am a Devops + Backend Developer with experience working with technologies such as Docker, Kubernetes, CI/CD, and Cloud services. Currently, I am constantly learning about system architecture and cloud computing, aiming to become a Cloud Engineer and Solutions Architect in the future. I am passionate about building effective infrastructure solutions, processing processes and optimizing the system on Cloud platforms such as AWS, GCP and Azure.
+I am a Cloud DevOps Engineer with hands-on experience in Docker, Kubernetes, CI/CD pipelines, and cloud services. My work centers around designing scalable infrastructure, automating deployment processes, and optimizing systems on leading cloud platforms specialy AWS. Currently, I’m deepening my knowledge of system architecture and cloud computing, with the long-term goal of becoming a Cloud Engineer and Solutions Architect. I’m passionate about building robust, efficient, and reliable cloud-native solutions that enhance system performance and streamline operations.
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [tranquocviet1303@gmail.com](mailto:tranquocviet1303@gmail.com)
-* 🧠  I'm learning Cloud Computing
+* 🧠  I'm learning Cloud Devops
 
 <a href="https://www.github.com/vietqtran" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vietqtran?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
