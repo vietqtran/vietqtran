@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Devops Engineer
 -----------------
 
-I am a Cloud DevOps Engineer with hands-on experience in Docker, Kubernetes, CI/CD pipelines, and cloud services. My work centers around designing scalable infrastructure, automating deployment processes, and optimizing systems on leading cloud platforms specialy AWS. Currently, I’m deepening my knowledge of system architecture and cloud computing, with the long-term goal of becoming a Cloud Engineer and Solutions Architect. I’m passionate about building robust, efficient, and reliable cloud-native solutions that enhance system performance and streamline operations.
-
+I'm a Cloud Engineer with a strong passion for building scalable, secure, and efficient cloud solutions using Amazon Web Services (AWS). With a background in DevOps and backend development, I specialize in designing cloud architectures, automating infrastructure, and optimizing system performance on the cloud. I'm particularly interested in serverless computing, container orchestration, and leveraging AWS services to solve real-world business challenges. Continuously learning and improving, I'm on a mission to master cloud-native technologies and contribute to impactful, future-ready systems.
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [tranquocviet1303@gmail.com](mailto:tranquocviet1303@gmail.com)
 * 🧠  I'm learning Cloud Devops
