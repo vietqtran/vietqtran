@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Quoc Viet
 ======================================================================================================================================
 
-Cloud Devops Engineer
------------------
-
-I'm a Cloud Engineer with a strong passion for building scalable, secure, and efficient cloud solutions using Amazon Web Services (AWS). With a background in DevOps and backend development, I specialize in designing cloud architectures, automating infrastructure, and optimizing system performance on the cloud. I'm particularly interested in serverless computing, container orchestration, and leveraging AWS services to solve real-world business challenges. Continuously learning and improving, I'm on a mission to master cloud-native technologies and contribute to impactful, future-ready systems.
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [tranquocviet1303@gmail.com](mailto:tranquocviet1303@gmail.com)
 * 🧠  I'm learning Cloud Devops
